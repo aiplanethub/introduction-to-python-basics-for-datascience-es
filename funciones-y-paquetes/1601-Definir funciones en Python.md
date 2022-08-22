@@ -9,5 +9,3 @@
 * Nota: El tutor utilizó algún otro IDE de Python local de fácil uso (similar a Colab o Jupyter notebook), así que no presione el botón de pánico al ver la nueva interfaz de codificación.  Puedes ejecutar cómodamente el mismo código en colab/jupyter notebook (o cualquier entorno python) y funcionará.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j2xhtI0WTew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
